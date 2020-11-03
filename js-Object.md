@@ -71,7 +71,7 @@
 
    不推荐使用 `__proto__`
 
-   `let obj = {name:'frank'}`
+   `let obj = {name:'llw'}`
 
    `let obj2 = {name: 'jack'}`
 
@@ -85,7 +85,7 @@
 
   `let obj = Object.create(common)`
 
-  `obj.name = 'frank'`
+  `obj.name = 'llw'`
 
   `let obj2 = Object.create(common)`
 
